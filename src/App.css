@@ -621,7 +621,7 @@ i{
 
   }
   .product-header{
-    height: 100%;
+    height: auto;
     padding-top: 40px;
     flex-direction: column;
   }
