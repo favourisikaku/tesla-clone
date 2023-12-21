@@ -601,8 +601,11 @@ i{
   .cart-header{
     margin-left: 50px;
   }
+  .cart-items-header{
+    height: 160vh;
+  }
   .cart-items-header h2{
-    padding-top: 20px;
+    padding-top: 70px;
     
   }
   .cart-header-text{
